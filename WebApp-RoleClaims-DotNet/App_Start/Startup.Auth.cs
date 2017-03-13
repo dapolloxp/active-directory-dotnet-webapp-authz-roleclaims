@@ -1,4 +1,4 @@
-﻿// #define SingleTenantApp
+﻿#define SingleTenantApp
 using System;
 
 //The following namespace was added to this sample.
